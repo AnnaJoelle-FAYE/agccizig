@@ -1,0 +1,13 @@
+body{
+    background-image: url(image9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;;
+}
+table{
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: rgb(22, 1, 14);
+    font-size: 25px;
+}
